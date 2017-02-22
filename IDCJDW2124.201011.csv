@@ -1,0 +1,34 @@
+"Daily Weather Observations for Sydney, New South Wales for November 2010"
+"Prepared at 05:44 GMT on Wednesday 24 November 2010   IDCJDW2124.201011"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Observatory Hill, but some from Fort Denison and Sydney Airport."
+"Evaporation and sunshine observations are from Sydney Airport, about 10 km to the south."
+"Temperature, humidity, pressure, cloud and rainfall observations are from Sydney (Observatory Hill) {station 066062}"
+"Evaporation and sunshine observations are from Sydney Airport AMO {station 066037}"
+"Wind observations are from Fort Denison {station 066022}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2010-11-1,18.1,20.4,5.2,6.6,0.1,SSE,48,12:10,18.7,78,8,S,22,1014.7,18.6,77,8,SSE,28,1012.1
+,2010-11-2,11.8,17.9,32.6,3.8,1.7,WSW,54,10:49,13.3,77,,W,31,1011.8,17.8,59,7,SSE,24,1012.8
+,2010-11-3,12.0,23.9,0.2,4.0,11.9,SE,44,15:50,17.6,65,1,W,13,1018.1,20.7,54,3,ESE,24,1016.3
+,2010-11-4,14.4,18.1,0.4,5.4,2.8,ESE,48,21:35,14.8,83,7,S,15,1022.3,17.6,68,7,SE,20,1020.5
+,2010-11-5,13.4,19.2,8.4,8.4,2.7,SE,46,13:41,15.2,67,7,SE,17,1023.9,17.8,53,7,SSE,30,1022.1
+,2010-11-6,13.6,18.8,26.0,4.8,2.5,ESE,37,01:12,14.1,93,,SSW,7,1023.8,16.7,81,,SSE,15,1021.9
+,2010-11-7,13.4,23.3,8.8,3.6,10.9,NE,37,16:44,16.6,77,,WNW,13,1021.3,20.7,59,,E,26,1018.1
+,2010-11-8,16.1,26.3,0,5.8,7.9,SW,74,19:44,23.3,64,3,E,7,1017.2,23.8,52,7,NNE,28,1015.1
+,2010-11-9,17.2,23.6,5.6,11.2,7.0,SSE,37,08:18,19.7,80,7,SSE,22,1025.0,23.2,54,8,E,11,1024.2
+,2010-11-10,18.2,24.5,0,3.2,6.0,N,52,15:26,20.9,87,5,WNW,6,1021.8,23.5,72,7,ENE,30,1017.1
+,2010-11-11,19.7,27.2,8.6,7.2,9.3,E,30,13:52,20.1,77,5,ESE,7,1014.9,25.0,43,3,E,24,1012.0
+,2010-11-12,19.1,26.8,0,9.0,12.6,NE,48,17:20,24.3,67,1,WNW,6,1013.8,25.6,57,3,NE,24,1011.9
+,2010-11-13,19.6,30.3,,8.6,10.3,NNE,43,14:09,25.8,64,,E,11,1014.9,27.6,56,,NE,28,1013.5
+,2010-11-14,20.5,30.4,0,9.0,10.2,NNE,50,17:14,26.1,70,,ENE,13,1015.7,27.2,56,,NNE,28,1012.8
+,2010-11-15,22.3,23.9,0,10.4,0.0,SSE,30,08:31,23.9,70,,SW,9,1012.8,19.4,95,,SE,7,1012.6
+,2010-11-16,17.4,23.5,21.0,1.0,7.9,ESE,35,14:42,18.8,82,7,S,13,1013.3,22.8,65,3,SSE,20,1011.3
+,2010-11-17,17.1,22.3,0.4,6.6,4.2,SSE,28,23:11,17.5,80,7,S,17,1017.1,21.0,61,6,E,15,1015.7
+,2010-11-18,16.8,23.4,1.0,3.6,8.8,NE,35,15:58,22.3,65,3,N,7,1015.2,22.6,59,6,NE,20,1012.2
+,2010-11-19,16.7,20.0,0,8.0,0.4,SSE,67,03:45,17.4,71,7,S,26,1021.8,18.5,58,8,SSE,33,1024.0
+,2010-11-20,13.7,21.9,0,5.4,13.3,E,30,15:55,20.0,58,,SSE,2,1027.2,,,,ESE,19,
+,2010-11-21,15.0,23.1,0,5.6,12.8,ENE,39,16:38,,,,NE,17,,22.6,55,,E,26,1022.9
+,2010-11-22,16.5,24.0,0,9.0,11.4,NE,44,16:48,19.3,82,6,WNW,4,1026.0,23.2,54,2,E,26,1024.3
+,2010-11-23,18.6,25.2,0,8.0,,ENE,46,14:16,22.5,63,,NNE,22,1027.2,,,,NE,24,
+,2010-11-24,17.5,,0,11.0,,,,,22.8,60,2,NNE,17,1025.3,24.1,58,1,NE,26,1022.0
